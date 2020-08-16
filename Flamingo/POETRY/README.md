@@ -1,6 +1,6 @@
 
 
-<img src ="img/poetry.png" width="160%">
+<img src ="../img/poetry.png" width="160%">
 
 ###### FLAMINGO POEMS
 

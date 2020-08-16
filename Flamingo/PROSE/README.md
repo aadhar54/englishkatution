@@ -1,6 +1,6 @@
 
 
-<img src ="img/prose.jpg" width="160%">
+<img src ="../img/prose.jpg" width="160%">
 
 ###### FLAMINGO PROSE
 
