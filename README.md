@@ -1,5 +1,6 @@
 ###### DELETED TOPICS CLASS 12 ENG CORE 
 
+<img src ="img/zoom.jpeg" width="160%">
 <img src ="img/deleted.png" width="160%">
 
 
